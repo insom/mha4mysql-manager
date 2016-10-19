@@ -1,7 +1,8 @@
-mha4mysql-manager (0.56-0) squeeze; urgency=low
+mha4mysql-manager (0.57-3) trusty; urgency=low
 
-  * (Note: All changelogs are written here: http://code.google.com/p/mysql-master-ha/wiki/ReleaseNotes )
-  * Version 0.56
+  * Optionally override the version check on MySQL
+  * Reduce the `libdbd-mysql-perl` version to 4.025
+  * Version 0.57
 
  -- Yoshinori Matsunobu <Yoshinori.Matsunobu@gmail.com>  Tue, 1 Apr 2014 00:00:00 +0000
 
