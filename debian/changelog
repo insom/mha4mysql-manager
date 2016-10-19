@@ -1,7 +1,8 @@
-mha4mysql-manager (0.57-3) trusty; urgency=low
+mha4mysql-manager (0.57-4) trusty; urgency=low
 
   * Optionally override the version check on MySQL
   * Reduce the `libdbd-mysql-perl` version to 4.025
+  * Revert the IPv6 support in HEAD
   * Version 0.57
 
  -- Yoshinori Matsunobu <Yoshinori.Matsunobu@gmail.com>  Tue, 1 Apr 2014 00:00:00 +0000
